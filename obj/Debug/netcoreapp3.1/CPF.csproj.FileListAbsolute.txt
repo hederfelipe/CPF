@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.exe
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.deps.json
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.runtimeconfig.json
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.dll
+C:\Users\USER\source\repos\CPF\bin\Debug\netcoreapp3.1\CPF.pdb
+C:\Users\USER\source\repos\CPF\obj\Debug\netcoreapp3.1\CPF.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CPF\obj\Debug\netcoreapp3.1\CPF.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CPF\obj\Debug\netcoreapp3.1\CPF.AssemblyInfo.cs
+C:\Users\USER\source\repos\CPF\obj\Debug\netcoreapp3.1\CPF.dll
+C:\Users\USER\source\repos\CPF\obj\Debug\netcoreapp3.1\CPF.pdb
