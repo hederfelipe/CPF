@@ -7,26 +7,15 @@ namespace CPF
         static void Main(string[] args)
         {
 
+            Validacao val = new Validacao();
+             string valido;
 
-           Validacao val = new Validacao();
-            string valido;
-
-          Console.WriteLine("Informe o CPF: ");
-          string   cpf = Console.ReadLine();
-
-
+            Console.WriteLine("Informe o CPF: ");
+            string   cpf = Console.ReadLine();
 
             val.ValidaCpf(valido);
 
             Console.WriteLine("CPF INFORMADO É: " + valido );
-           
-           
-          
-            
-
-         
-           
-           
            
         }
     }
